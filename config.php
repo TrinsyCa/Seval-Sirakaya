@@ -1,6 +1,6 @@
 <?php
     $DOMAIN = "https://sevalsirakaya.com/";
-    $PATH = "/sevalguzellik"; // Localde klasör ismi
+    $PATH = "/sevalsirakaya"; // Localde klasör ismi
     $PUBLIC_HTML = "/sevalsirakaya"; // Hostta klasör ismi, eğer sitenin ana dizininde ise boş bırak
 
     $EMAIL_HOST = 'smtp.google.com';
