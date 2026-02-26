@@ -7,5 +7,5 @@
             <p>Eğer şöyle rahatlatıcı bir bakım yapmak, yenilenmiş hissetmek ya da sadece kahve eşliğinde güzel bir sohbet için bile uğramak isterseniz, her zaman bekleriz. Güzellik bizim işimiz, mutluluk sizin hakkınız! 💕</p>
         </div>
     </div>
-    <div id="faq-obj">Seval & Seda<br>Sırakaya</div>
+    <div id="faq-obj">Seval<br>Sırakaya</div>
 </section>
